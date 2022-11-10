@@ -78,17 +78,17 @@ you are in a hurry to go to school on time. But when you are crossing the road, 
 // }
 //lets try switch to do the same task
 
-const signal = "green";
-switch (signal) {
-  case "red":
-    console.log("if you try to cross the road, you may be in danger.");
-    break;
-  case "yellow":
-    console.log("you should stop.");
-    break;
-  case "green":
-    console.log("you should cross the road.");
-    break;
-  default:
-    console.log("There is something wrong in the traffic signal");
-}
+// const signal = "green";
+// switch (signal) {
+//   case "red":
+//     console.log("if you try to cross the road, you may be in danger.");
+//     break;
+//   case "yellow":
+//     console.log("you should stop.");
+//     break;
+//   case "green":
+//     console.log("you should cross the road.");
+//     break;
+//   default:
+//     console.log("There is something wrong in the traffic signal");
+// }
